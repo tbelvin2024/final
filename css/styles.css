@@ -146,3 +146,11 @@ footer a:visited {
 footer a:hover {
     text-decoration: underline;
 }
+
+Img.CenImg { 
+
+display: block; 
+margin-left: auto; 
+margin-right: auto; 
+
+} 
